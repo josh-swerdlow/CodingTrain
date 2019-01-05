@@ -1,0 +1,15 @@
+{
+  "name": "gettingstarted",
+  "version": "1.0.0",
+  "description": "Just an quick intro node.js project",
+  "main": "test_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Swerdlow",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
