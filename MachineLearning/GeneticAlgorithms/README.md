@@ -2,13 +2,13 @@
 
 ## Introduction
 
-This folder contains the relevant files for [The Coding Train's][ref1] [Genetic Algorithm](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw4n02JP28QDuUdNi3EXxJ) series.
+This folder contains the relevant files for [The Coding Train's][train] [Genetic Algorithm][genAlg] series.
 
 ## Notes
 
 ### Shakespeare's Monkey Thought Experiment
 Given a monkey, a computer with a keyboard, infinite time, and complete random keystrokes then the monkey would eventually type all of Shakespeare's completed works. Wow..amazing.
-
+P
 If one wanted to see if a monkey could type "to be or not to be that is the question" then:
 
 - 1/27 chance of randomly type a "t"
@@ -50,8 +50,6 @@ P = {"unijorn", "pancake", "aaaaaah", "popcorn"} with initial fitnesses of F(P) 
         - *Mutation*: A heuristic to randomly alter the information of the child before it is introduced in the next population (i.e. A 1% probability that some element of the child will be altered in some way).
     - Repopulation: Replace the old population with the new population and repeat.
 
-
-
 ## Fun Coding Ideas
 
 ### Random/Selected Phrase Genetic Algorithm Evolution
@@ -73,6 +71,7 @@ Genetic algorithm seem to painfully obvious algorithms to parallelize so it woul
 This would be a great way to practice my javascript, work on static webpage implementations with CSS and HTML, and a good way for me to review the search algorithms.
 
 ## References
-[ref1]: https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+[train]: https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+[genAlg]: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw4n02JP28QDuUdNi3EXxJ
 
 
